@@ -8,26 +8,315 @@ uid: e52c3fe7-cb97-e13a-4235-acedb73dba24
 
 Selected lecture notes are provided below.
 
-| LECTURE | TOPICS | LECTURE SLIDES/NOTES/REFERENCES |
-| --- | --- | --- |
-| 1 | Reactor Fundamentals / Nomenclature / Nuclear Reactions / Nuclear Stability |  {{< br >}}{{< br >}} Chapter 1 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec01)) {{< br >}}{{< br >}}  |
-| 2 | Neutron Sources / Binding Energy / Fission Process / Chart of Nuclides |  {{< br >}}{{< br >}} Chapter 1 \[EEL\] (cont.) {{< br >}}{{< br >}}  |
-| 3 | Radioactive Decay / Cross-Sections |  {{< br >}}{{< br >}} Chapters 2 and 3 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec02-03)) (cont.) {{< br >}}{{< br >}}  |
-| 4 | Compound Nucleus / Resonances / Neutron Scattering | Chapters 2 and 3 \[EEL\] (cont.) |
-| 5 | Neutron Slowing Down / Neutron Flux / Moderators / Energy Condensation | Chapter 2 and 3 \[EEL\] (cont.) |
-| 6 | Power Reactors I (LWRs / Neutron Life Cycle) |  {{< br >}}{{< br >}} Chapter 4 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec04)) {{< br >}}{{< br >}}  |
-| 7 | Power Reactors II (CANDU / Advanced LWRs, Gas Reactors, ...) | Chapter 4 \[EEL\] (cont.) |
-| 10 | Transport Equation | Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf)) |
-| 11 | Criticality / Flux / Current / BCs | Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf)) |
-| 12 | Kinetics Approximation |  {{< br >}}{{< br >}} Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf)) {{< br >}}{{< br >}} Chapter 5 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec05)) {{< br >}}{{< br >}}  |
-| 13 | Delayed Neutrons / Photoneutrons / Inhour | Chapter 5 \[EEL\] (cont.) |
-| 14 | Prompt Jump Approximation | Chapter 5 \[EEL\] (cont.) |
-| 16 | Diffusion Equation – One Group | Chapter 6 \[EEL\] |
-| 17 | Non-Multiplying Systems / Multiplying Systems | Chapter 6 \[EEL\] (cont.) |
-| 18 | Diffusion – Two Groups | Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf)) |
-| 19 | Bare reactors / Reflectors | Chapter 7 \[EEL\] |
-| 20 | Control Rods / Burnable Poisons | Chapter 7 \[EEL\] (cont.) |
-| 22 | Energy Transport |  {{< br >}}{{< br >}} Chapter 8 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09)) {{< br >}}{{< br >}}  |
-| 23 | Reactivity Feedback / Transients |  {{< br >}}{{< br >}} Chapter 9 \[EEL\] {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09)) {{< br >}}{{< br >}}  |
-| 24 | Reactor Control / Xenon / Samarium | Chapter 10 \[EEL\] |
-| 25 | Depletion / MA | Chapter 10 \[EEL\] (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LECTURE
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE SLIDES/NOTES/REFERENCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor Fundamentals / Nomenclature / Nuclear Reactions / Nuclear Stability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 1 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec01))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Sources / Binding Energy / Fission Process / Chart of Nuclides
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 1 \[EEL\] (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Radioactive Decay / Cross-Sections
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 2 and 3 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec02-03)) (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Compound Nucleus / Resonances / Neutron Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 2 and 3 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Slowing Down / Neutron Flux / Moderators / Energy Condensation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2 and 3 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Power Reactors I (LWRs / Neutron Life Cycle)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec04))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Power Reactors II (CANDU / Advanced LWRs, Gas Reactors, ...)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Transport Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Criticality / Flux / Current / BCs
+{{< tdclose >}}
+{{< tdopen >}}
+Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+
+Chapter 5 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec05))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Delayed Neutrons / Photoneutrons / Inhour
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Prompt Jump Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Equation – One Group
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 \[EEL\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Multiplying Systems / Multiplying Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion – Two Groups
+{{< tdclose >}}
+{{< tdopen >}}
+Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Bare reactors / Reflectors
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7 \[EEL\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Control Rods / Burnable Poisons
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Transport
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 8 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Reactivity Feedback / Transients
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 9 \[EEL\]
+
+([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor Control / Xenon / Samarium
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 \[EEL\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Depletion / MA
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 \[EEL\] (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
