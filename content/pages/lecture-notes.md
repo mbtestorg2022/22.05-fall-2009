@@ -138,7 +138,7 @@ Chapter 4 \[EEL\] (cont.)
 Transport Equation
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ Notes (![This resource may not render correctly in a screen reader.](/images/ina
 Criticality / Flux / Current / BCs
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +164,7 @@ Kinetics Approximation
 {{< tdopen >}}
 
 
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 
 Chapter 5 \[EEL\]
 
@@ -230,7 +230,7 @@ Chapter 6 \[EEL\] (cont.)
 Diffusion – Two Groups
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
